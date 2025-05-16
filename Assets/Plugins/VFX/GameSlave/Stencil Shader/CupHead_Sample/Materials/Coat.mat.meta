@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ea911c2d44f7d44b9981fc3295cf8a7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316775
+  packageName: 3D Mask, Portals and Holes
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Stencil Shader/CupHead_Sample/Materials/Coat.mat
+  uploadId: 747701

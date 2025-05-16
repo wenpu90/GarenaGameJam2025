@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cb9d785739dd9945900bdcb4e47703b
+timeCreated: 1489589585
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Materials/Minigun/P_Flash.mat
+  uploadId: 409202

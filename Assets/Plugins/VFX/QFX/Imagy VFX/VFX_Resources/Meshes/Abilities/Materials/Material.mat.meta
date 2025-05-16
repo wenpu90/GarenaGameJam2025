@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b421bd9db84d4b84bbfc8ceaf32dcfcd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Meshes/Abilities/Materials/Material.mat
+  uploadId: 409202

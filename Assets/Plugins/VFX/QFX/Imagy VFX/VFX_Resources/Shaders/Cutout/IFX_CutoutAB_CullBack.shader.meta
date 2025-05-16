@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a1d0de4414f554d4f85da289915bac37
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Shaders/Cutout/IFX_CutoutAB_CullBack.shader
+  uploadId: 409202

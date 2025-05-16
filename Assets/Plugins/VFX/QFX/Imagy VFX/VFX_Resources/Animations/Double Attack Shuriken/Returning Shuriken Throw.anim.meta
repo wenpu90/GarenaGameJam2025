@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 08744c26e9920c148a411535f8194204
+timeCreated: 1548837444
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Animations/Double Attack Shuriken/Returning
+    Shuriken Throw.anim
+  uploadId: 409202

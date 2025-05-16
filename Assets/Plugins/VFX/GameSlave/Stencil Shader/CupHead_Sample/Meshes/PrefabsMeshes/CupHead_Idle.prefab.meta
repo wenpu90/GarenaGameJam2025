@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0200561e093d06f4092653e7aa86fb57
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316775
+  packageName: 3D Mask, Portals and Holes
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Stencil Shader/CupHead_Sample/Meshes/PrefabsMeshes/CupHead_Idle.prefab
+  uploadId: 747701

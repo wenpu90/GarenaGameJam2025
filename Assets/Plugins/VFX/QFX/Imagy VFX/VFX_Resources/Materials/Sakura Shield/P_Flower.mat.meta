@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1d772bb8b984e20499aab0f057c935ac
+timeCreated: 1550917014
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Materials/Sakura Shield/P_Flower.mat
+  uploadId: 409202

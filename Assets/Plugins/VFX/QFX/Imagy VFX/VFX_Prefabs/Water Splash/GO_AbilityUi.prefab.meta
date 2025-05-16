@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 93f0f389506718248bbf8a69df13628f
+timeCreated: 1543402774
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Water Splash/GO_AbilityUi.prefab
+  uploadId: 409202

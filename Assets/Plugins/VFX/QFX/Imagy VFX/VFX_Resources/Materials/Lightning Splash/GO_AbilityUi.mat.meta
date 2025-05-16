@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ec225a941c730f40b94db2c618b7df1
+timeCreated: 1541650812
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Materials/Lightning Splash/GO_AbilityUi.mat
+  uploadId: 409202

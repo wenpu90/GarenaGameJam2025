@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6601c72ae5d4d0148a4decbee8c103cb
+timeCreated: 1547639445
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Animations/Gunshots/Gunplay Fast.anim
+  uploadId: 409202

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b81961bd1ee3a449b3a41b351574a65
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316775
+  packageName: 3D Mask, Portals and Holes
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Stencil Shader/Shaders/Stencil Unlit Shader.shader
+  uploadId: 747701

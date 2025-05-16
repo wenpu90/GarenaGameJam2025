@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5352fcfb4b952004eb68e2371d0af881
+timeCreated: 1547560504
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Gunshots/Fast Shot/P_Fast Gunshot.prefab
+  uploadId: 409202

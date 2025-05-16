@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f1fd5ddbd8a18f4eb8eee3532fc36ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Minigun/P_Minigun_Impact.prefab
+  uploadId: 409202

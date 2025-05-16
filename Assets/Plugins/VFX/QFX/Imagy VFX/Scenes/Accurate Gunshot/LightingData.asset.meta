@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9cce667ea034dd6478b87b237e13644c
+timeCreated: 1549480989
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/Scenes/Accurate Gunshot/LightingData.asset
+  uploadId: 409202

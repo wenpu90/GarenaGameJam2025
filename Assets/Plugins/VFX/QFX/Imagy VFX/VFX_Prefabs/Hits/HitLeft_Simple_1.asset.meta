@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8188051871c366a4f99c4337e3455974
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Hits/HitLeft_Simple_1.asset
+  uploadId: 409202

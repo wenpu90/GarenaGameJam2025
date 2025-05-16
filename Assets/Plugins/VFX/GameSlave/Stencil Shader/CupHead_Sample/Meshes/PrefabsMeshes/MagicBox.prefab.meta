@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b8d06f19e521704b93ee543ee2fd97b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316775
+  packageName: 3D Mask, Portals and Holes
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Stencil Shader/CupHead_Sample/Meshes/PrefabsMeshes/MagicBox.prefab
+  uploadId: 747701

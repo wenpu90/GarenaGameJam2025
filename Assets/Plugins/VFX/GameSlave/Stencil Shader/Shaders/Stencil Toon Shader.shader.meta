@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2da78cb89602b8443afb5a2d44153f1a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316775
+  packageName: 3D Mask, Portals and Holes
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Stencil Shader/Shaders/Stencil Toon Shader.shader
+  uploadId: 747701

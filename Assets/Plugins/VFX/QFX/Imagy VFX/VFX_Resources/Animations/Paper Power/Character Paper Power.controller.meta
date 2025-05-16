@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d864bfb38aeae9647ab10bbd45727da8
+timeCreated: 1542803513
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Animations/Paper Power/Character
+    Paper Power.controller
+  uploadId: 409202

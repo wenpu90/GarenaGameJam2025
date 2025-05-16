@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 82e7c6aa127e00b46b359b00bcb6a43d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Meshes/Abilities/Materials/LP_GunAmbient
+    Occlusion _MR_.mat
+  uploadId: 409202

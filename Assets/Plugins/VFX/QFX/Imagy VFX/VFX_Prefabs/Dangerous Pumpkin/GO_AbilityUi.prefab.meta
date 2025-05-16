@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f5fe45dabfc4beb4098546009cede717
+timeCreated: 1543402774
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Dangerous Pumpkin/GO_AbilityUi.prefab
+  uploadId: 409202

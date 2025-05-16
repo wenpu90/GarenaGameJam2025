@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60d5a91485a3bc04499c177aa887bff4
+timeCreated: 1541795465
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/Scenes/Lightning Blast.unity
+  uploadId: 409202

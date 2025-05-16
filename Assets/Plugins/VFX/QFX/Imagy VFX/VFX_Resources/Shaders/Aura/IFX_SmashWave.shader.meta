@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb7c8a8dcefe6cd438eb2079abd358f2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Shaders/Aura/IFX_SmashWave.shader
+  uploadId: 409202

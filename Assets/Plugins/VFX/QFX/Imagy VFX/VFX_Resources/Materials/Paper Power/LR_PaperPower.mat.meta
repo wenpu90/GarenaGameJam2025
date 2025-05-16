@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 056a42be2fcaead41b505316bc7dee8d
+timeCreated: 1494406875
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Materials/Paper Power/LR_PaperPower.mat
+  uploadId: 409202

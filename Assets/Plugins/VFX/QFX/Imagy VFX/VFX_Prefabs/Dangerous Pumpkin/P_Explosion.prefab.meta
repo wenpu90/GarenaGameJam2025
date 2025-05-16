@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 33d62c10be2c14c4ebfb8bfc74c3890b
+timeCreated: 1547207799
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Dangerous Pumpkin/P_Explosion.prefab
+  uploadId: 409202

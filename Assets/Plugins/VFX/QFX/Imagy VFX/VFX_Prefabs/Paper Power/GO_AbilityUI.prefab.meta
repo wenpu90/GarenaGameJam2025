@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e308f87b4f727d7439593c9cbfd46213
+timeCreated: 1543402774
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Paper Power/GO_AbilityUI.prefab
+  uploadId: 409202

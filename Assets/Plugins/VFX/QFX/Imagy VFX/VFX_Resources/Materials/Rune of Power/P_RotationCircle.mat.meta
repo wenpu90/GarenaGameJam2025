@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9866759dbc0a9104ebd056d292ab9ad4
+timeCreated: 1549717114
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Materials/Rune of Power/P_RotationCircle.mat
+  uploadId: 409202

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a5ef696be2a8c5145a239f4b7f058edc
+timeCreated: 1548935110
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Scripts/Trail/IFX_HorizontalTrail.cs
+  uploadId: 409202

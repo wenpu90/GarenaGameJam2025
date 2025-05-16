@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f32fea9dde43ab645b2460b6f5e5b2c0
+timeCreated: 1550839987
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Water Splash/Water Splash.asset
+  uploadId: 409202

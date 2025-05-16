@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 485e3ae0e36cafb4e93d4bb98992a2e3
+timeCreated: 1545471359
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/Change Log.txt
+  uploadId: 409202

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55dd870a85d77554983a82000645b566
+timeCreated: 1541650812
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Materials/Double Attack Shuriken/GO_AbilityUi.mat
+  uploadId: 409202

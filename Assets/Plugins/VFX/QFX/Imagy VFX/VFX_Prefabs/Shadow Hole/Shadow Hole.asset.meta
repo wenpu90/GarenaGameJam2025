@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f111beab6a74c014aacb37dddced1311
+timeCreated: 1548526503
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Shadow Hole/Shadow Hole.asset
+  uploadId: 409202

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa167bc70c8e7694e98a3c0d3ff47406
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316775
+  packageName: 3D Mask, Portals and Holes
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Stencil Shader/CupHead_Sample/Materials/Frame_Color.mat
+  uploadId: 747701

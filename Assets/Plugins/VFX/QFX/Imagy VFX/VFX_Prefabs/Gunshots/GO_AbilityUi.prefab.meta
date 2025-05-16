@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c542bde759e67a440bc078e49ebb5c10
+timeCreated: 1543402774
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Gunshots/GO_AbilityUi.prefab
+  uploadId: 409202

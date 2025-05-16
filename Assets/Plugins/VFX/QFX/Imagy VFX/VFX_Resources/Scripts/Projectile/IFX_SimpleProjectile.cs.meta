@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 70bb7bb3427eb094cbdba165409dbc83
+timeCreated: 1547374823
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Scripts/Projectile/IFX_SimpleProjectile.cs
+  uploadId: 409202

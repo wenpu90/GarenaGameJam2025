@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1fa661912640d324f84a87e4e0740f02
+timeCreated: 1542721632
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Blink/P_BlinkLanding.prefab
+  uploadId: 409202

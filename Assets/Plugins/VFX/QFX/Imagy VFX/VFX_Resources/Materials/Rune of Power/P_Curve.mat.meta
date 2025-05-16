@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 418849a6b7fa40f4893b55d14614cbae
+timeCreated: 1549650435
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Materials/Rune of Power/P_Curve.mat
+  uploadId: 409202

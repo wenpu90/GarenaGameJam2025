@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9b3a02c0d56f4b2479c0f1d42edbb24f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316775
+  packageName: 3D Mask, Portals and Holes
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Stencil Shader/Sample/StencilSample.unity
+  uploadId: 747701

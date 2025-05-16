@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1fe664219570d99488ec79027a5e6d46
+timeCreated: 1545168275
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Scripts/Ability/IFX_IAbilityFx.cs
+  uploadId: 409202

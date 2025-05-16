@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5d152ab9974307d45b9f3f4e790b46f8
+timeCreated: 1550240176
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Lightning Splash/Lightning Splash.asset
+  uploadId: 409202

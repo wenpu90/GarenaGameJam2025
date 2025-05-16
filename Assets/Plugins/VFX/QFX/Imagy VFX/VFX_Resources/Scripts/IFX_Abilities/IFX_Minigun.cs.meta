@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bb2205fc6c4d3624bbd9817f10a5f469
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Scripts/IFX_Abilities/IFX_Minigun.cs
+  uploadId: 409202

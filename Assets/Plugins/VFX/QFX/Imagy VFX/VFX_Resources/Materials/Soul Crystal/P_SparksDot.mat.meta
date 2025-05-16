@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 898edb7cf109db849bb861a657778b74
+timeCreated: 1545158535
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Materials/Soul Crystal/P_SparksDot.mat
+  uploadId: 409202

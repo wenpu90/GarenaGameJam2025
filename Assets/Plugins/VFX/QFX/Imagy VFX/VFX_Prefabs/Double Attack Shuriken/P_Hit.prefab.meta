@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 682cbc26d71bf2945ae1335cd05acd75
+timeCreated: 1548957892
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Double Attack Shuriken/P_Hit.prefab
+  uploadId: 409202

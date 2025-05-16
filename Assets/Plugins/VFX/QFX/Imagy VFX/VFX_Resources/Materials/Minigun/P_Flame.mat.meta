@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31cb22b31c5e6e54897cdb06e37a83c9
+timeCreated: 1489589585
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Materials/Minigun/P_Flame.mat
+  uploadId: 409202

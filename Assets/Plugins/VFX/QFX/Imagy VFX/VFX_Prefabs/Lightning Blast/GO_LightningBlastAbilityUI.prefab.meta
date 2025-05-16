@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 57064df22d1768b4095e9d782bdc95a4
+timeCreated: 1541682233
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Prefabs/Lightning Blast/GO_LightningBlastAbilityUI.prefab
+  uploadId: 409202

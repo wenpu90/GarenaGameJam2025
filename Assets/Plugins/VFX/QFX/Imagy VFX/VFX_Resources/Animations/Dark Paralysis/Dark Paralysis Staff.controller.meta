@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8482dd44de9aab049a9bc2fad6f17963
+timeCreated: 1541669410
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Animations/Dark Paralysis/Dark Paralysis
+    Staff.controller
+  uploadId: 409202

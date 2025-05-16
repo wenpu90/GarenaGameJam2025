@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7604db152a4dded4eb74661054849132
+timeCreated: 1545471359
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/Readme.txt
+  uploadId: 409202

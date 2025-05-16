@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c2b3e66e760fb7f44a9087421f59cad7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Scripts/Timeline/IFX_TimelineFxInstancer.cs
+  uploadId: 409202

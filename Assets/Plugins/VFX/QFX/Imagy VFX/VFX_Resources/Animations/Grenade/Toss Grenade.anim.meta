@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e12893dfadc469a44ad1d47cc0268be7
+timeCreated: 1549316982
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Animations/Grenade/Toss Grenade.anim
+  uploadId: 409202

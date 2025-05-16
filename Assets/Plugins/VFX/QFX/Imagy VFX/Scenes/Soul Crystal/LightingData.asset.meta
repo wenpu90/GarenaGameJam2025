@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac53aed70506eb649a0ed4d6ea6d87ea
+timeCreated: 1549480929
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/Scenes/Soul Crystal/LightingData.asset
+  uploadId: 409202

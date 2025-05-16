@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 999c0593b126bea489b0221586e57bfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Scripts/ParticleSystem/IFX_ParticleCollisionInstancer.cs
+  uploadId: 409202

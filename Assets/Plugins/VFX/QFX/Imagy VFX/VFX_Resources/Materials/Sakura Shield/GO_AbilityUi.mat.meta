@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d643939b9f2ac78419f73b8e0fc9ed82
+timeCreated: 1541650812
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93362
+  packageName: Imagy VFX
+  packageVersion: 1.4.5
+  assetPath: Assets/QFX/Imagy VFX/VFX_Resources/Materials/Sakura Shield/GO_AbilityUi.mat
+  uploadId: 409202

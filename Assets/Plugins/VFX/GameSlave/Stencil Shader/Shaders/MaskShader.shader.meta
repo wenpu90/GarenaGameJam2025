@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c1efb553935bc65498a5228696807706
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316775
+  packageName: 3D Mask, Portals and Holes
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Stencil Shader/Shaders/MaskShader.shader
+  uploadId: 747701

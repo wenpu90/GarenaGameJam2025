@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7d75fdb909c3fb4ab0702ae5be23f4a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316775
+  packageName: 3D Mask, Portals and Holes
+  packageVersion: 1.0
+  assetPath: Assets/GameSlave/Stencil Shader/CupHead_Sample/Meshes/PrefabsMeshes/Frame.prefab
+  uploadId: 747701
