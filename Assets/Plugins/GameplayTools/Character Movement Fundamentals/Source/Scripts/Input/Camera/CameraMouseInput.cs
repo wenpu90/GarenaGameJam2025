@@ -19,11 +19,28 @@ namespace CMF
         //Use this value to fine-tune mouse movement;
         //All mouse input will be multiplied by this value;
         public float mouseInputMultiplier = 0.01f;
-
+        public bool usingAD;
 	    public override float GetHorizontalCameraInput()
         {
             //Get raw mouse input;
-            float _input = Input.GetAxisRaw(mouseHorizontalAxis);
+            //float _input = Input.GetAxisRaw(mouseHorizontalAxis);
+            float _input = 0;
+            if (usingAD)
+            {
+                if (Input.GetKey(KeyCode.A))
+                {
+                    _input += -1;
+                }
+                if (Input.GetKey(KeyCode.D))
+                {
+                    _input += 1;
+                }
+            }
+            else
+            {
+                _input = Input.GetAxisRaw(mouseHorizontalAxis);
+            }
+  
             
             //Since raw mouse input is already time-based, we need to correct for this before passing the input to the camera controller;
             if(Time.timeScale > 0f && Time.deltaTime > 0f)

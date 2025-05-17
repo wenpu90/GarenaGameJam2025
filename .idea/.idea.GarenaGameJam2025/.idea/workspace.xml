@@ -998,6 +998,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Assets_Wenpu/Scripts/BroadcastManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Assets_Wenpu/Scripts/CharacterRacingMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Assets_Wenpu/Scripts/ResultUI.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -1015,6 +1020,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CodeLensConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -1071,7 +1077,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747384380616</updated>
-      <workItem from="1747384381836" duration="6191000" />
+      <workItem from="1747384381836" duration="18679000" />
     </task>
     <servers />
   </component>

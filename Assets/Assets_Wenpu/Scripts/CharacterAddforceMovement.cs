@@ -27,7 +27,6 @@ public class CharacterAddforceMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (isDashing) return;
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             rb.AddForce(modelTransform.forward * force, _forceMode);
@@ -39,8 +38,7 @@ public class CharacterAddforceMovement : MonoBehaviour
     public float slowTimeScale = 0.1f;
     public float duration = 1.5f;
     public AnimationCurve timeCurve = AnimationCurve.EaseInOut(0, 0, 1, 1);
-    public bool isDashing = false;
-    
+
     public void TriggerTimeSlow()
     {
         StartCoroutine(SlowTimeWithCurve());
@@ -48,10 +46,9 @@ public class CharacterAddforceMovement : MonoBehaviour
 
     private IEnumerator SlowTimeWithCurve()
     {
-        isDashing = true;
         Time.timeScale = slowTimeScale;
         Time.fixedDeltaTime = 0.02f * Time.timeScale;
-        
+
         float elapsed = 0f;
 
         while (elapsed < duration)
@@ -61,13 +58,12 @@ public class CharacterAddforceMovement : MonoBehaviour
             float curveValue = timeCurve.Evaluate(t);
             Time.timeScale = Mathf.Lerp(slowTimeScale, 1f, curveValue);
             Time.fixedDeltaTime = 0.02f * Time.timeScale;
-            Debug.Log(rb.linearVelocity);
             yield return null;
         }
 
         Time.timeScale = 1f;
         Time.fixedDeltaTime = 0.02f;
-        isDashing = false;
+        rb.linearVelocity = Vector3.zero;
     }
 
     private void ChangeTimeScale()

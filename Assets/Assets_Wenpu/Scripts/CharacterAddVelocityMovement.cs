@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class CharacterAddVelocityMovement : MonoBehaviour
@@ -10,6 +12,7 @@ public class CharacterAddVelocityMovement : MonoBehaviour
     private Vector3 velocityNeeded;
     private bool isMoving = false;
 
+    public List<KnockableObject> knockList = new List<KnockableObject>();
     void Start()
     {
         if (rb == null) rb = GetComponent<Rigidbody>();
@@ -24,6 +27,11 @@ public class CharacterAddVelocityMovement : MonoBehaviour
     }
 
     void FixedUpdate()
+    {
+
+    }
+
+    private void TimeScaling()
     {
         if (isMoving)
         {
@@ -50,5 +58,13 @@ public class CharacterAddVelocityMovement : MonoBehaviour
     void StartMovement()
     {
         isMoving = true;
+    }
+
+    private void OnCollisionEnter(Collision other)
+    {
+        if (other.collider.TryGetComponent(out KnockableObject knockableObject))
+        {
+   
+        }
     }
 }
