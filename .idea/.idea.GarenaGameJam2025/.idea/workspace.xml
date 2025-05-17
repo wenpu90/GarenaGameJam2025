@@ -1001,6 +1001,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Assets_Wenpu/Scripts/BroadcastManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Assets_Wenpu/Scripts/CharacterRacingMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Assets_Wenpu/Scripts/GameplaySettingSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Assets_Wenpu/Scripts/NPC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Assets_Wenpu/Scripts/NPCManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Assets_Wenpu/Scripts/ResultUI.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -1077,7 +1080,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747384380616</updated>
-      <workItem from="1747384381836" duration="18679000" />
+      <workItem from="1747384381836" duration="24221000" />
     </task>
     <servers />
   </component>

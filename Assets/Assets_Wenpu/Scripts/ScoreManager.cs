@@ -4,9 +4,13 @@ using UnityEngine;
 public class ScoreManager : MonoBehaviour
 {
     public static ScoreManager Instance { get; set; }
-    public int currentScore = 0;
     public int maxScore = 6;
+    public int badGuyCount;
+    public int goodGuyCount;
+    public int objectCount;
+    public int bossCount;
 
+    public Action OnScoreChanged;
     private void Awake()
     {
         Instance = this;
@@ -14,15 +18,30 @@ public class ScoreManager : MonoBehaviour
 
     private void Start()
     {
-        currentScore = 0;
+        maxScore = NPCManager.Instance.GetTotalNpcCount;
     }
 
-    public void AddScore(int score)
+    public void AddScore(KnockableObject.UnitType unitType)
     {
-        currentScore += score;
-        if (currentScore >= maxScore)
+        switch (unitType)
         {
+            case KnockableObject.UnitType.BadGuy:
+                badGuyCount += 1;
+                break;
+            case KnockableObject.UnitType.GoodGuy:
+                goodGuyCount += 1;
+                break;
+            case KnockableObject.UnitType.Object:
+                objectCount += 1;
+                break;
+        }
+        OnScoreChanged?.Invoke();
+
+        if (badGuyCount + goodGuyCount >= maxScore)
+        {
+            Debug.LogError("ScoreComplete!!");
             GameManager.Instance.EnterResultMode();
         }
     }
+    
 }
