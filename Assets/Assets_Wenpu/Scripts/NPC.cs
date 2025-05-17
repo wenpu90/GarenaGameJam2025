@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class NPC : KnockableObject
 {
-    protected override void OnKnockbackComplete()
-    {
-        base.OnKnockbackComplete();
-        NPCManager.Instance.GetBackToStorage(this);
-    }
+  public GameObject prefab;
+  protected override void KnockbackReaction(Collider other)
+  {
+      GameObject go = Instantiate(prefab);
+      go.transform.position = transform.position;
+  }
 }

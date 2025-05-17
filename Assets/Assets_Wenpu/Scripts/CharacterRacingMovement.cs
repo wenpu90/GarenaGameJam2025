@@ -17,6 +17,7 @@ public class CharacterRacingMovement : MonoBehaviour
 
     void FixedUpdate()
     {
+        if (!rb.useGravity) rb.useGravity = true;
         if (!GameManager.Instance.IsStarted) return;
         // 1. Constantly move forward in local forward direction
         if (rb.linearVelocity.magnitude < maxSpeed)
