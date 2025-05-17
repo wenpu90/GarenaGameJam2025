@@ -1,5 +1,1030 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4d3b6e6-ac41-42c3-9927-8b50432466a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/DTT.AreaOfEffectRegions.Demo.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/DTT.AreaOfEffectRegions.Demo.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scene/Terrain.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scene/Terrain.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scene/WebGLDemo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scene/WebGLDemo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/ConfigurationHidingButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/ConfigurationHidingButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/MoveObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/MoveObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SelectionUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SelectionUI/SelectionMenuHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SelectionUI/SelectionMenuHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SelectionUI/TextureSelectionUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SelectionUI/TextureSelectionUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SelectionUI/TypeSelectionUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SelectionUI/TypeSelectionUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI/ArcSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI/ArcSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI/CircleSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI/CircleSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI/ScatterLineSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI/ScatterLineSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI/SettingsHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI/SettingsHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI/lineSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/SettingsUI/lineSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/TerrainFLoor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/TerrainFLoor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/TerrainHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Scripts/TerrainHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Texture/Dropdown Arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Texture/Dropdown Arrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Texture/checkmark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Interactive Demo/Texture/checkmark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Decoration 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Centre Dot 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Left 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Arc Right 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Circle Centre Dot 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Floor 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Floor 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Floor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Floor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Floor_MaskMap 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Floor_MaskMap 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Floor_MaskMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Floor_MaskMap.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Body 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Line Head 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Body 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Materials/Scatter Line Head 6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Models/Quad.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Models/Quad.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Arc 1 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Arc 1 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Arc 2 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Arc 2 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Arc 3 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Arc 3 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Circle 1 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Circle 1 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Circle 2 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Circle 2 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Circle 3 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Circle 3 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Line 1 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Line 1 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Line 2 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Line 2 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Line 3 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Line 3 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Line 1 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Line 1 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Line 2 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Line 2 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Line 3 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Line 3 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Lines 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Lines 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Lines 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Lines 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Lines 3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Prefabs/Scatter Lines 3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Scenes/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Scenes/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Scenes/TerrainData_405b4394-e1c2-4b85-9890-3c41b6ae514a.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Scenes/TerrainData_405b4394-e1c2-4b85-9890-3c41b6ae514a.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 1 Mirrored.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 1 Mirrored.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 2 Mirrored.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 2 Mirrored.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 3 Mirrored.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 3 Mirrored.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arc 3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arrow 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arrow 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arrow 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arrow 2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arrow 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Arrow 3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Centre Dot 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Centre Dot 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Centre Dot 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Centre Dot 2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Centre Dot 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Centre Dot 3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Circle 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Circle 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Circle 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Circle 2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Circle 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Circle 3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Effect 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Effect 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Effect 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Effect 2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Effect 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Effect 3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Line 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Line 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Line 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Line 2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Line 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Line 3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Stone Floor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Mesh Indicators/Textures/Stone Floor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Decoration 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Decoration 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Decoration 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Decoration 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Decoration 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Decoration 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Dot 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Dot 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Dot 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Dot 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Dot 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Centre Dot 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Left 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Left 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Left 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Left 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Left 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Left 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Right 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Right 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Right 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Right 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Right 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Arc Right 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre Dot 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre Dot 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre Dot 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre Dot 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre Dot 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Circle Centre Dot 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Body 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Body 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Body 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Body 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Body 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Body 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Head 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Head 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Head 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Head 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Head 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/Line Head 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Decoration 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Decoration 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Decoration 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Decoration 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Decoration 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Decoration 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Dot 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Dot 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Dot 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Dot 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Dot 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Centre Dot 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Left 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Left 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Left 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Left 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Left 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Left 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Right 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Right 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Right 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Right 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Right 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Arc Right 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre Dot 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre Dot 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre Dot 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre Dot 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre Dot 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Circle Centre Dot 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Body 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Body 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Body 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Body 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Body 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Body 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Head 1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Head 1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Head 2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Head 2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Head 3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/SRP Line Head 3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/TerrainMaterialURP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/TerrainMaterialURP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/TerrainSRP.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/SRP/TerrainSRP.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/TerrainMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Materials/TerrainMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Arc 1 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Arc 1 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Arc 2 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Arc 2 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Arc 3 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Arc 3 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Circle 1 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Circle 1 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Circle 2 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Circle 2 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Circle 3 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Circle 3 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Line 1 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Line 1 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Line 2 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Line 2 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Line 3 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Line 3 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/SRP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/SRP/Arc 1 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/SRP/Arc 1 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/SRP/Circle 1 Region.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/SRP/Circle 1 Region.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/SRP/Line 1 Region 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/SRP/Line 1 Region 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/SRP/Scatter Lines 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/SRP/Scatter Lines 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Scatter Lines 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Scatter Lines 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Scatter Lines 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Scatter Lines 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Scatter Lines 3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Prefabs/Scatter Lines 3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Scenes/ProjectorDemo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Scenes/ProjectorDemo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Scenes/SRP Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Scenes/SRP Demo/SRP Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Scenes/SRP Demo/SRP Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 1 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 1 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 1 Mirrored Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 1 Mirrored Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 2 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 2 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 2 Mirrored Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 2 Mirrored Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 3 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 3 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 3 Mirrored Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arc 3 Mirrored Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arrow 1 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arrow 1 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arrow 2 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arrow 2 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arrow 3 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Arrow 3 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Center Dot 1 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Center Dot 1 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Center Dot 2 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Center Dot 2 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Center Dot 3 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Center Dot 3 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Circle 1 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Circle 1 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Circle 2 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Circle 2 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Circle 3 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Circle 3 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Effect 1 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Effect 1 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Effect 2 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Effect 2 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Effect 3 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Effect 3 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Line 1 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Line 1 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Line 2 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Line 2 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Line 3 Decal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/Projector Indicators/Textures/Line 3 Decal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/UI Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/UI Prefab/InputField.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/UI Prefab/InputField.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/UI Prefab/Slider.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Demo/UI Prefab/Slider.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Documentation.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/DTT.AreaOfEffectRegions.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/DTT.AreaOfEffectRegions.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/ArcRegionEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/ArcRegionEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/ArcShaderEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/ArcShaderEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/CircleRegionEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/CircleRegionEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/LineRegionEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/LineRegionEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/ScatterLineRegionEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/ScatterLineRegionEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/VerticalFadeEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Mesh Indicators/VerticalFadeEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/ArcRegionProjectorEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/ArcRegionProjectorEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/CircleRegionProjectorEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/CircleRegionProjectorEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/LineRegionProjectorEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/LineRegionProjectorEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/Constants.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/Constants.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/SRPArcRegionProjectorEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/SRPArcRegionProjectorEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/SRPCircleRegionProjectorEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/SRPCircleRegionProjectorEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/SRPInspector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/SRPInspector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/SRPLineRegionProjectorEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/SRPLineRegionProjectorEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/SRPScatterLineRegionProjectorEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/SRP/SRPScatterLineRegionProjectorEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/ScatterLineRegionProjectorEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Projector Indicators/ScatterLineRegionProjectorEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Publisher.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Publisher/ReadMeOpener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Publisher/ReadMeOpener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Publisher/ReadMeSections.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Publisher/ReadMeSections/1-get-started.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Publisher/ReadMeSections/1-get-started.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Publisher/ReadMeSections/2-contact-us.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Publisher/ReadMeSections/2-contact-us.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Publisher/ReadMeSections/5-about-dtt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Publisher/ReadMeSections/5-about-dtt.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Textures/Arc Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Textures/Arc Icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Textures/Circle Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Textures/Circle Icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Textures/Line Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Textures/Line Icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Textures/Scatter Line Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/Textures/Scatter Line Icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/UniversalDependencyCheckup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Editor/UniversalDependencyCheckup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/DTT.AreaOfEffectRegions.Runtime.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/DTT.AreaOfEffectRegions.Runtime.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/GizmosExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/GizmosExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/InternalsExposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/InternalsExposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Arcs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Arcs/ArcRegion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Arcs/ArcRegion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Arcs/ArcRegionBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Arcs/ArcRegionBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Circles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Circles/CircleRegion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Circles/CircleRegion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Circles/CircleRegionBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Circles/CircleRegionBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Lines.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Lines/LineRegion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Lines/LineRegion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Lines/LineRegionBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Lines/LineRegionBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Lines/ScatterLineRegion.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Lines/ScatterLineRegion.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders/ArcShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders/ArcShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders/CircleShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders/CircleShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders/TransparentColor.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders/TransparentColor.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders/VerticalFade.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders/VerticalFade.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders/VerticalFill.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Mesh Indicators/Shaders/VerticalFill.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/ArcRegionProjector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/ArcRegionProjector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/CircleRegionProjector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/CircleRegionProjector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/LineRegionProjector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/LineRegionProjector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Origin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Origin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/SRP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/SRP/SRPArcRegionProjector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/SRP/SRPArcRegionProjector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/SRP/SRPCircleRegionProjector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/SRP/SRPCircleRegionProjector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/SRP/SRPLineRegionProjector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/SRP/SRPLineRegionProjector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/SRP/SRPScatterLineRegionProjector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/SRP/SRPScatterLineRegionProjector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/ScatterLineRegionProjector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/ScatterLineRegionProjector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/ArcProjector.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/ArcProjector.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/BasicProjector.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/BasicProjector.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/CircleProjector.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/CircleProjector.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/SRP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/SRP/SRP ArcShader.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/SRP/SRP ArcShader.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/SRP/SRP Basic Projector.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/SRP/SRP Basic Projector.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/SRP/SRP CircleShader.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/SRP/SRP CircleShader.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/SRP/SRP VerticalFadeFillProjector.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/SRP/SRP VerticalFadeFillProjector.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/VerticalFadeFillProjector.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Runtime/Projector Indicators/Shaders/VerticalFadeFillProjector.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Tests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Tests/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Tests/Runtime/ArcRegionTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Tests/Runtime/ArcRegionTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Tests/Runtime/DTT.AreaOfEffectRegions.Tests.Runtime.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Tests/Runtime/DTT.AreaOfEffectRegions.Tests.Runtime.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Tests/Runtime/LineRegionTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/Tests/Runtime/LineRegionTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/asset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Area of Effect Regions/asset.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scenes/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scenes/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/ScriptableObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/ScriptableObjects/ExampleSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/ScriptableObjects/ExampleSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/DTT.EditorUtilities.Demo.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/DTT.EditorUtilities.Demo.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/Editor/GUIDisplayEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/Editor/GUIDisplayEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/Editor/SerializedPropertyEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/Editor/SerializedPropertyEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/GUIDisplayBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/GUIDisplayBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/SettingsScriptableObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Demo/Scripts/SettingsScriptableObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Documentation.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/AssetDatabaseUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/AssetDatabaseUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/AssetUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/AssetUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/DTT.EditorUtilities.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/DTT.EditorUtilities.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/EditorAssemblyUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/EditorAssemblyUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/EditorSceneUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/EditorSceneUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/EditorWindowUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/EditorWindowUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/Exceptions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/Exceptions/AssetDatabaseException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/Exceptions/AssetDatabaseException.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/Exceptions/EditorUtilityException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/Exceptions/EditorUtilityException.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/AnimatedFoldout.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/AnimatedFoldout.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/AnimatedToggleFoldout.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/AnimatedToggleFoldout.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorAnimationExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorAnimationExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ContextDropdown.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ContextDropdown.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ContextDropdownBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ContextDropdownBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ContextDropdownItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ContextDropdownItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/EditorLayoutUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/EditorLayoutUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ExtendedDropdown.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ExtendedDropdown.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ExtendedDropdownBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ExtendedDropdownBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ExtendedDropdownItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/EditorLayoutUtility/ExtendedDropdownItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/Editors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/Editors/AutomatedEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/Editors/AutomatedEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/ExtendedGUIStyles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/ExtendedGUIStyles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIColors.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIColors.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIContentCache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIContentCache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIContentExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIContentExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIDrawTools.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIDrawTools.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIDrawing.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIDrawing.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIStyleCache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/GUIStyleCache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/HandlesUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/HandlesUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/IDrawable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/IDrawable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/SerializedPropertyExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/SerializedPropertyExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/TreeViewUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/GUI/TreeViewUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/PackageUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/PackageUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/PathNames.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/PathNames.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/PlayerSettingsUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/PlayerSettingsUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/RelativePropertyCache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/RelativePropertyCache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/SerializedPropertyCache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/SerializedPropertyCache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/SpriteUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Editor Utilities/Editor/SpriteUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/card_body_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/card_body_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/card_body_light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/card_body_light.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/card_header_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/card_header_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/card_header_light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/card_header_light.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/icon-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/icon-large.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/logo_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/logo_dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/logo_light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Art/logo_light.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/DTT.PublishingTools.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/DTT.PublishingTools.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Black.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-BlackItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Bold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-BoldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-ExtraBold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-ExtraLight.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-ExtraLightItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Italic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-LICENSE.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Light.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-LightItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Medium.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-MediumItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Regular.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-SemiBold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-SemiBoldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-Thin.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-ThinItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Montserrat/Montserrat-VariableFont_wght.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OPENSANS-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OPENSANS-LICENSE.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Bold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-BoldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-ExtraBold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-ExtraBoldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Italic-VariableFont_wdth,wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Italic-VariableFont_wdth,wght.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Italic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Light.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-LightItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Medium.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-MediumItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-Regular.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-SemiBold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-SemiBoldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-VariableFont_wdth,wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Fonts/Open Sans/OpenSans-VariableFont_wdth,wght.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTColors.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTColors.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTGUILayout.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTGUILayout.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTGUISkin.guiskin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTGUISkin.guiskin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTGUIStyles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTGUIStyles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTTextures.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/GUI/DTTTextures.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/AssetJson.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/AssetJson.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/AutomatedDTTInspector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/AutomatedDTTInspector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/DTTAssetService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/DTTAssetService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/DTTEditorWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/DTTEditorWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/DTTInspector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/DTTInspector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/DTTShaderEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/DTTShaderEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/EditorTextures.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/EditorTextures.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/Header.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/Header/DTTHeaderAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/Header/DTTHeaderAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/Header/DTTHeaderContent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/Header/DTTHeaderContent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/Header/DTTHeaderGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/Header/DTTHeaderGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/Header/DTTHeaderStyles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/Header/DTTHeaderStyles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe/DTTReadMe.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe/DTTReadMe.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe/DTTReadMeEditorWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe/DTTReadMeEditorWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe/DTTReadMeFocusPostprocessor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe/DTTReadMeFocusPostprocessor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe/DTTReadMeStyles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe/DTTReadMeStyles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe/ReadMeSection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Publisher/ReadMe/ReadMeSection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Settings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Settings/ConfigPostProcessor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Settings/ConfigPostProcessor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Settings/DTTEditorConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Settings/DTTEditorConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Utilities.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Utilities/DTTPathUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Editor/Utilities/DTTPathUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Runtime/DTT.PublishingTools.Runtime.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Runtime/DTT.PublishingTools.Runtime.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Runtime/DTTAssetAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/Runtime/DTTAssetAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/asset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Publishing Tools/asset.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/DTT.RuntimeUtilities.Demo.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/DTT.RuntimeUtilities.Demo.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scenes/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scenes/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/ArrayBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/ArrayBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/EnumBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/EnumBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/EnumerableBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/EnumerableBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/LazyDictionaryBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/LazyDictionaryBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/LoadSceneModeDropdown.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/LoadSceneModeDropdown.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/RectTransformBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/RectTransformBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/RichTextBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/RichTextBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/StringBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Demo/Scripts/StringBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Documentation.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Components.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Components/EnumDropdown.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Components/EnumDropdown.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/DTT.RuntimeUtilities.Runtime.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/DTT.RuntimeUtilities.Runtime.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Exceptions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Exceptions/LazyDictionaryException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Exceptions/LazyDictionaryException.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Exceptions/NullOrEmptyException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Exceptions/NullOrEmptyException.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Exceptions/RuntimeUtilityException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Exceptions/RuntimeUtilityException.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/ArrayExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/ArrayExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/ColorExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/ColorExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/EnumExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/EnumExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/EnumerableExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/EnumerableExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/GenericExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/GenericExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/ListExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/ListExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/MathExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/MathExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/RectAnchor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/RectAnchor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/RectTransformExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/RectTransformExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/RichTextColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/RichTextColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/RichTextExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/RichTextExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/StringExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/StringExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/TransformExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/TransformExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/TypeExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/TypeExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/UIntExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/UIntExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/Vector3Extensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Extensions/Vector3Extensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Optimization.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Optimization/LazyDictionary.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Optimization/LazyDictionary.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Optimization/LazyDictionaryBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Optimization/LazyDictionaryBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Optimization/LazyTexture2DCache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Optimization/LazyTexture2DCache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Optimization/LazyValueDictionary.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Optimization/LazyValueDictionary.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Vector3Axis.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Vector3Axis.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/GridBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/GridBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/Mathd.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/Mathd.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/PathUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/PathUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/SingleAction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/SingleAction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/StringUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/StringUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/Unguaranteed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/DTT/Runtime Utilities/Runtime/Workflow/Unguaranteed.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/GameplayTools/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2xAcaOZ0Hj27M40X6LLoZOPiHJR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\TorchPC\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\TorchPC\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\TorchPC\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.1.3f1\Editor\Unity.exe" />
@@ -37,5 +1062,30 @@
       </option>
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4d3b6e6-ac41-42c3-9927-8b50432466a8" name="Changes" comment="" />
+      <created>1747384380616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747384380616</updated>
+      <workItem from="1747384381836" duration="6191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
