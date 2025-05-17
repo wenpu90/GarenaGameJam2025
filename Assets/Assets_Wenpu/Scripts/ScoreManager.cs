@@ -36,12 +36,6 @@ public class ScoreManager : MonoBehaviour
                 break;
         }
         OnScoreChanged?.Invoke();
-
-        if (badGuyCount + goodGuyCount >= maxScore)
-        {
-            Debug.LogError("ScoreComplete!!");
-            GameManager.Instance.EnterResultMode();
-        }
     }
     
 }

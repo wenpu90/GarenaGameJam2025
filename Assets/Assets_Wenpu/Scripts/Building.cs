@@ -2,10 +2,14 @@ using UnityEngine;
 
 public class Building : KnockableObject
 {
-    public GameObject prefab;
+    public GameObject[] prefab;
     protected override void KnockbackReaction(Collider other)
     {
-        GameObject go = Instantiate(prefab);
-        go.transform.position = transform.position;
+        for (int i = 0; i < prefab.Length; i++)
+        {
+            GameObject go = Instantiate(prefab[i]);
+            go.transform.position = transform.position;
+            go.AddComponent<DestroyAfterPlay>();
+        }
     }
 }

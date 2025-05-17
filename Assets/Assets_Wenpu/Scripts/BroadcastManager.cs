@@ -42,18 +42,27 @@ public class BroadcastManager : MonoBehaviour
         panel.SetActive(true);
         isShowing = true;
 
-        float startX = maskArea.rect.width;
-        float endX = -textComponent.preferredWidth;
-        messageText.anchoredPosition = new Vector2(startX, messageText.anchoredPosition.y);
+        // float startX = maskArea.rect.width;
+        // float endX = -textComponent.preferredWidth;
+        // messageText.anchoredPosition = new Vector2(startX, messageText.anchoredPosition.y);
+        //
+        // float duration = (startX - endX) / scrollSpeed;
+        //
+        // messageText.DOAnchorPosX(endX, duration)
+        //     .SetEase(Ease.Linear)
+        //     .OnComplete(() =>
+        //     {
+        //         ShowNextMessage(); // Continue to next message
+        //     });
+        
+        messageText.anchoredPosition = new Vector2(0, -60f);
+        messageText.DOAnchorPosY(0f, 0.5f).OnComplete(() => WaitForXSec(2.5f));
 
-        float duration = (startX - endX) / scrollSpeed;
 
-        messageText.DOAnchorPosX(endX, duration)
-            .SetEase(Ease.Linear)
-            .OnComplete(() =>
-            {
-                ShowNextMessage(); // Continue to next message
-            });
+        void WaitForXSec(float sec)
+        {
+            Invoke(nameof(ShowNextMessage), sec);
+        }
     }
 
     [Button]

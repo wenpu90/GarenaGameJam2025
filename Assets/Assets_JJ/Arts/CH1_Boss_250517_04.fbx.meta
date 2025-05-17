@@ -3,7 +3,37 @@ guid: e764dd1d37f2e05459e8c0af3d004c75
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial
+    second: {fileID: 2100000, guid: 80dda034f4c8a4a49831b23ca0e1b04d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Ruckus_Green_Body
+    second: {fileID: 2100000, guid: e754485b8a4163e43a15cf1c7bfdfaa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Ruckus_Green_Head
+    second: {fileID: 2100000, guid: 6fda8a9a897dcae459593c68acebe9c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.030
+    second: {fileID: 2100000, guid: 2582bd52768ce5e49800a9f34e3b9d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.031
+    second: {fileID: 2100000, guid: a26cb06b7df376c4fa2ed24c697f093e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.032
+    second: {fileID: 2100000, guid: c1b8906b583ceb244ae8e4997b1b350f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

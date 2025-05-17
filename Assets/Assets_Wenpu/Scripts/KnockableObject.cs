@@ -5,7 +5,7 @@ using DG.Tweening;
 
 public class KnockableObject : MonoBehaviour
 {
-    public enum UnitType { BadGuy, GoodGuy, Object }
+    public enum UnitType { BadGuy, GoodGuy, Object, Boss }
     public UnitType unitType;
     public bool isKnockedBack;
     public float knockbackDistance = 3f;

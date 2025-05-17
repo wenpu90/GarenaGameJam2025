@@ -1,5 +1,7 @@
 using System;
+using Sirenix.OdinInspector;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -8,12 +10,18 @@ public class GameManager : MonoBehaviour
 
     public float currentTime;
     public float maxTime;
-    [SerializeField] private bool isEnded = false;
+    public bool isEnded = false;
     public bool IsStarted = false;
+
+    public static float GameSpeed = 1f;
+
+    [SerializeField] private GameObject victoryPanel;
+    [SerializeField] private GameObject timesUpPanel;
     private void Awake()
     {
         Instance = this;
         isEnded = false;
+        GameSpeed = 1f;
     }
 
     private void Start()
@@ -29,8 +37,23 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Alpha0))
+        {
+            RestartGame();
+        }
+        
         if (!IsStarted || isEnded) return;
 
+
+        if (Input.GetKeyDown(KeyCode.Plus))
+        {
+            currentTime += 10;
+        }
+        else if(Input.GetKeyDown(KeyCode.Minus))
+        {
+            currentTime -= 10;
+        }
+        
         if (currentTime > 0)
         {
             currentTime -= Time.deltaTime;
@@ -46,19 +69,28 @@ public class GameManager : MonoBehaviour
     public void EnterResultMode()
     {
         Debug.LogError("ShowResult!");
-        Time.timeScale = 0f;
+        _resultUI.gameObject.SetActive(true);
         _resultUI.ShowResultUI();
     }
 
+    [Button]
     public void RestartGame()
     {
-        
+        SceneManager.LoadScene(0);
     }
 
     public void ShowTimesUp()
     {
-        Time.timeScale = 0f;
+        if (isEnded) return;
+        isEnded = true;
         Debug.LogError("TimesUp!!");
-        _resultUI.gameObject.SetActive(true);
+        timesUpPanel.SetActive(true);
+    }
+
+    public void BossDead()
+    {
+        if (isEnded) return;
+        isEnded = true;
+        victoryPanel.SetActive(true);
     }
 }
