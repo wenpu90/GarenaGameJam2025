@@ -132,6 +132,9 @@ MonoBehaviour:
   rotationDuration: 2
   prefab:
   - {fileID: 123268, guid: 775fb3e8f5df827428272416a14d9adf, type: 3}
+  - {fileID: 195360, guid: a3c24a5ae068ed44d950af671f99cc21, type: 3}
+  - {fileID: 193062, guid: 01949c12a89de284792dc4b7b7128404, type: 3}
+  - {fileID: 167524, guid: fdac75e990da47649b31f10049c400b0, type: 3}
 --- !u!1 &896622410116509830
 GameObject:
   m_ObjectHideFlags: 0
