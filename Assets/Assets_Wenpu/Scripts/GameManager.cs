@@ -52,11 +52,11 @@ public class GameManager : MonoBehaviour
         if (!IsStarted || isEnded) return;
 
 
-        if (Input.GetKeyDown(KeyCode.Plus))
+        if (Input.GetKeyDown(KeyCode.F1))
         {
             currentTime += 10;
         }
-        else if(Input.GetKeyDown(KeyCode.Minus))
+        else if(Input.GetKeyDown(KeyCode.F2))
         {
             currentTime -= 10;
         }

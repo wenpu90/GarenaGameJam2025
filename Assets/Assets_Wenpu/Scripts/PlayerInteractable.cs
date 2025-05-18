@@ -16,7 +16,7 @@ public class PlayerInteractable : MonoBehaviour
             {
                 ScoreManager.Instance.AddScore(KnockableObject.UnitType.Object);
                 BroadcastManager.Instance.ShowBroadcast(BroadcastManager.BroadcastType.BuildingNews);
-                Debug.LogError("Building!");
+                //Debug.LogError("Building!");
                 for (int i = 0; i < buildingEffects.Length; i++)
                 {
                     GameObject go = Instantiate(buildingEffects[i]);

@@ -60,7 +60,7 @@ public class BroadcastManager : MonoBehaviour
         //         ShowNextMessage(); // Continue to next message
         //     });
         
-        messageText.anchoredPosition = new Vector2(0, -60f);
+        messageText.anchoredPosition = new Vector2(-90, -90f);
         messageText.DOAnchorPosY(0f, 0.5f).OnComplete(() => WaitForXSec(2.5f));
 
 

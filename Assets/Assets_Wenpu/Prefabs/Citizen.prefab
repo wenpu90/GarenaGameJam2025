@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 6655741529410996429}
   - component: {fileID: 2554882021910754761}
   - component: {fileID: 3235492392248160129}
-  - component: {fileID: 290822520847212481}
   m_Layer: 0
   m_Name: Citizen
   m_TagString: Untagged
@@ -133,22 +132,6 @@ MonoBehaviour:
   rotationDuration: 2
   prefab:
   - {fileID: 123268, guid: 775fb3e8f5df827428272416a14d9adf, type: 3}
---- !u!114 &290822520847212481
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 661482630811971766}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 44f8251035906bd43b4e1a5fa68214a8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveCloser: 1
-  moveSpeed: 2
-  bounceAmplitude: 0.15
-  bounceFrequency: 20
 --- !u!1001 &4488660120100553768
 PrefabInstance:
   m_ObjectHideFlags: 0
