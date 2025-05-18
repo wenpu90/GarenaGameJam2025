@@ -27,7 +27,7 @@ public class PlayerInteractable : MonoBehaviour
             }
             else if (other.rigidbody.CompareTag("SmallProp"))
             {
-                Debug.LogError("Building!");
+                //Debug.LogError("Building!");
                 for (int i = 0; i < smallPropEffects.Length; i++)
                 {
                     GameObject go = Instantiate(smallPropEffects[i]);

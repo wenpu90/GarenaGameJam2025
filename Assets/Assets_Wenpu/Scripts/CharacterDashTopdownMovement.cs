@@ -23,11 +23,20 @@ public class CharacterDashTopdownMovement : MonoBehaviour
         {
             if (Time.time > usedTime + cooldownTime)
             {
+                CharacterRacingMovement.Instance.isCharging = true;
+                anim.SetBool("Charge", true);
+            }
+        }
+        if (Input.GetKeyUp(KeyCode.Space) && CharacterRacingMovement.Instance.isCharging)
+        {
+            if (Time.time > usedTime + cooldownTime)
+            {
                 DashForward();
                 dashSkillUI.UseSkill();
                 usedTime = Time.time;
-                anim.SetTrigger("Attack");
                 StartCoroutine(PauseRotating());
+                CharacterRacingMovement.Instance.isCharging = false;
+                anim.SetBool("Charge", false);
             }
         }
     }
@@ -48,6 +57,6 @@ public class CharacterDashTopdownMovement : MonoBehaviour
         CharacterRacingMovement.Instance.pauseRotate = true;
         yield return new WaitForSeconds(0.8f);
         CharacterRacingMovement.Instance.pauseRotate = false;
-        anim.ResetTrigger("Attack");
+        anim.SetBool("Charge", false);
     }
 }

@@ -10,6 +10,8 @@ public class CharacterRacingMovement : MonoBehaviour
 
     private Rigidbody rb;
     public bool pauseRotate;
+
+    public bool isCharging = false;
     private void Awake()
     {
         Instance = this;
@@ -29,7 +31,15 @@ public class CharacterRacingMovement : MonoBehaviour
         // 1. Constantly move forward in local forward direction
         if (rb.linearVelocity.magnitude < maxSpeed)
         {
-            rb.AddForce(transform.forward * moveForce);
+            if (isCharging)
+            {
+                rb.AddForce(transform.forward * (moveForce * 0.25f));
+            }
+            else
+            {
+                rb.AddForce(transform.forward * moveForce);
+            }
+      
         }
 
         if (pauseRotate) return;
