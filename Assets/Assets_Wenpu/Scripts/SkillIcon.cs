@@ -15,7 +15,7 @@ public class SkillIcon : MonoBehaviour
         skillIcon_FadeBlocker.gameObject.SetActive(true);
         skillIcon_Cooldown.gameObject.SetActive(true);
         skillIcon_Cooldown.fillAmount = 1f;
-        skillIcon_Cooldown.DOFillAmount(0f, cooldownTime).OnComplete(FinishCooldown);
+        skillIcon_Cooldown.DOFillAmount(0f, cooldownTime).SetEase(Ease.Linear).OnComplete(FinishCooldown);
     }
 
     private void FinishCooldown()

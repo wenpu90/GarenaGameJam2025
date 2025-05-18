@@ -7,6 +7,7 @@ using Sirenix.OdinInspector;
 
 public class BroadcastManager : MonoBehaviour
 {
+    public static BroadcastManager Instance { get; set; }
     public MarqueeText marqueeText;
     public GameObject panel; // The UI panel containing the banner
     public RectTransform messageText; // The moving text
@@ -19,8 +20,12 @@ public class BroadcastManager : MonoBehaviour
     private bool isShowing = false;
 
     public enum BroadcastType{ VillainNews, CitizenNews, BuildingNews }
-    
-    
+
+    private void Awake()
+    {
+        Instance = this;
+    }
+
     public void EnqueueMessage(string message)
     {
         messageQueue.Enqueue(message);

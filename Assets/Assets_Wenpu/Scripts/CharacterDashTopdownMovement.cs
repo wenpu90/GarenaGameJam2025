@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class CharacterDashTopdownMovement : MonoBehaviour
 {
     [SerializeField] private SkillIcon dashSkillUI;
+    [SerializeField] private Animator anim;
     public float dashForce = 10f;
 
     private Rigidbody rb;
@@ -25,6 +26,7 @@ public class CharacterDashTopdownMovement : MonoBehaviour
                 DashForward();
                 dashSkillUI.UseSkill();
                 usedTime = Time.time;
+                anim.SetTrigger("Attack");
                 StartCoroutine(PauseRotating());
             }
         }
@@ -44,7 +46,8 @@ public class CharacterDashTopdownMovement : MonoBehaviour
     private IEnumerator PauseRotating()
     {
         CharacterRacingMovement.Instance.pauseRotate = true;
-        yield return new WaitForSeconds(0.7f);
+        yield return new WaitForSeconds(0.8f);
         CharacterRacingMovement.Instance.pauseRotate = false;
+        anim.ResetTrigger("Attack");
     }
 }
