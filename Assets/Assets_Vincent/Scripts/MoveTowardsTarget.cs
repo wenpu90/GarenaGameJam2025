@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class MoveTowardsTarget : MonoBehaviour
@@ -13,6 +14,18 @@ public class MoveTowardsTarget : MonoBehaviour
     void Start()
     {
         basePosition = transform.position;
+        if (TryGetComponent(out NPC npc))
+        {
+            switch (npc.unitType)
+            {
+                case KnockableObject.UnitType.BadGuy:
+                    moveCloser = false;
+                    break;
+                case KnockableObject.UnitType.GoodGuy:
+                    moveCloser = true;
+                    break;
+            }
+        }
     }
 
     void Update()

@@ -77,6 +77,7 @@ public class GameManager : MonoBehaviour
     {
         Debug.LogError("ShowResult!");
         _resultUI.gameObject.SetActive(true);
+        gameplayPanel.SetActive(false);
     }
 
     [Button]
@@ -91,6 +92,7 @@ public class GameManager : MonoBehaviour
         isEnded = true;
         Debug.LogError("TimesUp!!");
         timesUpPanel.SetActive(true);
+        gameplayPanel.SetActive(false);
     }
 
     public void BossDead()
@@ -98,6 +100,7 @@ public class GameManager : MonoBehaviour
         if (isEnded) return;
         isEnded = true;
         victoryPanel.SetActive(true);
+        gameplayPanel.SetActive(false);
     }
 
     private bool isFading = false;
